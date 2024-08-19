@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=rect&height=200&color=0:14567b,100:7ecec6&text=FE%20Developer&rotate=0&textBg=false&strokeWidth=0&fontColor=fff)
 
-### ✨개발자 김광진 Git hub에 오신 것을 환영합니다!✨
+### ✨개발자 김광진 Github에 오신 것을 환영합니다!✨
 <br/>
 
 [📝 이력서](https://daisy-cadet-146.notion.site/Web-FE-Developer-0af80019535e4031b411799cdb49fe09)  
