@@ -56,6 +56,10 @@
       <td>Site</td>
       <td><a href='https://mystore-bay.vercel.app/'>https://mystore-bay.vercel.app/</a></td>
     </tr>
+    <tr>
+      <td>Details</td>
+      <td><a href='https://velog.io/@ggj102/MY-STORE-%EB%AA%85%EC%84%B8%EC%84%9C'>https://velog.io/@ggj102/MY-STORE-명세서</a></td>
+    </tr>
   </table>
 <br/>
 
